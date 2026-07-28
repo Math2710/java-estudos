@@ -8,7 +8,7 @@ public class Impressora {
     public static void imprimir(String texto, int vezes){
         int a = 0; 
         while(a < vezes){
-            System.out.println("Olá mundo");
+            System.out.println(texto);
             a ++;
         }
     }
