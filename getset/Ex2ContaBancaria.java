@@ -1,6 +1,6 @@
 package getset;
 
-public class ex2_conta_bancaria {
+public class Ex2ContaBancaria {
     public static void main(String[] args) {
         ContaBancaria conta = new ContaBancaria();
         conta.setTitular("Carlos");

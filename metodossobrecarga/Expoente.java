@@ -1,6 +1,6 @@
-package metodos_sobrecarga;
+package metodossobrecarga;
 
-public class expoente {
+public class Expoente {
 
     public static void elevar() {
         System.out.println("Este método não calcula nada!");

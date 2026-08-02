@@ -1,6 +1,6 @@
 package getset;
 import java.util.Scanner;
-public class ex3_produto {
+public class Ex3Produto {
     public static void main(String[] args) {
         Produto produto = new Produto();
         Scanner scanner = new Scanner(System.in);

@@ -1,7 +1,7 @@
 package getset;
 import java.util.Scanner;
 
-public class ex1_cadastro_pessoa {
+public class Ex1CadastroPessoa {
     public static void main(String[] args) {
         Pessoa pessoa = new Pessoa();
         Scanner scanner = new Scanner(System.in);

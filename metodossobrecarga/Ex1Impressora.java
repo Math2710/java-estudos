@@ -1,6 +1,6 @@
-package metodos_sobrecarga;
+package metodossobrecarga;
 
-public class ex1_impressora {
+public class Ex1Impressora {
 
     public static void main(String[] args) {
 

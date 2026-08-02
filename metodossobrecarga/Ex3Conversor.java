@@ -1,6 +1,6 @@
-package metodos_sobrecarga;
+package metodossobrecarga;
 import java.util.Scanner;
-public class ex3_conversor {
+public class Ex3Conversor {
     public static void main(String[] args) {
         Conversor conversor = new Conversor();
         Scanner scanner = new Scanner(System.in);

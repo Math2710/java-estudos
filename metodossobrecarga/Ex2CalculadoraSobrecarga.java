@@ -1,6 +1,6 @@
-package metodos_sobrecarga;
+package metodossobrecarga;
 import java.util.Scanner;
-public class ex2_calculadora_sobrecarga {
+public class Ex2CalculadoraSobrecarga {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Digite dois numeros: ");
