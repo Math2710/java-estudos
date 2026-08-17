@@ -80,7 +80,7 @@ Os tópicos estão listados na ordem de aprendizado — do básico ao mais avan�
 | [python-estudos](https://github.com/Math2710/python-estudos) | Fundamentos de Python — tipos, operadores e laços |
 | [html-estudos](https://github.com/Math2710/html-estudos) | HTML5 semântico — estrutura, tabelas, formulários e mídia |
 | [css-estudos](https://github.com/Math2710/css-estudos) | CSS — cores, tipografia, layout e componentes |
-| [estudos-csharp](https://github.com/Math2710/estudos-csharp) | Fundamentos de C# e .NET |
+| [csharp-estudos](https://github.com/Math2710/csharp-estudos) | Fundamentos de C# e .NET |
 
 ## Autor
 
